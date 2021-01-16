@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{1.\040Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{1.1.\040Problem\040Describtion}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{1.2.\040Dataset\040Interpretation}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{1.3.\040Evaluation\040Criteria}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{2.\040Text\040Preprocessing}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{2.1.\040Punctuation\040and\040Stopword\040Removment}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{2.2.\040Stemming}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{3.\040Text\040Feature}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{3.1.\040Fundamental\040Feature}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{3.2.\040Levenshtein\040Distance}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{3.3.\040TF-IDF}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{3.4.\040Word2Vec}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{4.\040Modeling\040and\040Forecasting}{}% 13
+\BOOKMARK [1][-]{section.5}{5.\040Conclusions}{}% 14

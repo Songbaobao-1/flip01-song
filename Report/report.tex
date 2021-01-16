@@ -1,0 +1,55 @@
+\documentclass{amsart}
+\synctex=1
+
+%=================================================================
+% 
+\newcount\DraftStatus  % 0 suppresses notes to selves in text
+\DraftStatus=1   % TODO: set to 0 for final version
+%=================================================================
+
+%=================================================================
+\usepackage{comment}
+%=================================================================
+%
+\includecomment{JournalOnly}  
+\includecomment{ConferenceOnly}  
+\includecomment{TulipStyle}
+%
+%=================================================================
+\input{preamble}
+
+
+%=================================================================
+%
+\begin{document}
+%
+%=================================================================
+%
+\title[Flip01 report]{FLIPO1 PRESETANTION REPORT}%
+
+\author{BAOBAO SONG}
+
+%\thanks{Thanks to \ldots}%
+\date{2021-01-15}%
+
+\begin{abstract}
+This report mainly explains, analyses and solve the problem of predicting the relevance score with the database which is given.The database contains some information includes relevance score of products information and search items. The report contains ﬁve parts. The first part decribes the  problem, interprets the data and illustrates evaluation criteria. Moreover,the report do some test preprocessing, which includes remove punctuation and stopwords and others. Third, select some text features to construct feature matrix. Then, different models are used and parameters are adjusted to find the best result. The last one is conclusion.
+
+\end{abstract}
+
+\maketitle
+\tableofcontents
+
+\newpage
+%=================================================================
+
+\input{mainbody}
+
+% ----------------------------------------------------------------
+\newpage
+
+%=================================================================
+
+
+\end{document}
+
